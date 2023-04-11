@@ -1,2 +1,3 @@
-# mtthpr.github.io
-JSON API WORDPRESS
+# JSON
+
+An API call to GitHub Pages URL
